@@ -1,5 +1,5 @@
 # TransientConduction
- Simple script to calculate and display Transient Thermal Conduction. This was an in-depth analysis of a reflow oven for a thermodynamic project
+ Simple script to calculate and display Transient Thermal Conduction. Originally for an in-depth analysis of an insualtion wall of a solder reflow oven for a thermodynamic project
 
 ## Dependencies
  - python2.7 +
