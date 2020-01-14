@@ -9,9 +9,11 @@
  ## Results
  
 Heat equation 
+
  ![3 dimensional Heat eq](math/imgs/3d-heattransfereq.png)
  
  Which can be simplifed to the following for one dimension
+ 
  ![1 dimensional Heat eq](math/imgs/1d-heattransereq.png)
  
  
@@ -23,7 +25,7 @@ Python Implimenataion
 
 Mathcad Implimentation
 
-![Transient Conduction](math/imgs/ForwareEuler.png)
+![Transient Conduction](math/imgs/ForwardEuler.png)
 ![Crank Nicholson](math/imgs/CrankNicholson.png)
 
 
