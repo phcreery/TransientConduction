@@ -10,7 +10,7 @@
  
 Heat equation 
 
- ![3 dimensional Heat eq](matcad/imgs/3d-heattransfereq.png)
+ ![3 dimensional Heat eq](mathcad/imgs/3d-heattransfereq.png)
  
  Which can be simplifed to the following for one dimension
  
