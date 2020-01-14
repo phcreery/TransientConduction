@@ -4,7 +4,7 @@ from mpl_toolkits.mplot3d import Axes3D
 def generate(X,Y,Tlim,Tcn,xss=1,yss=1):
 
 	xlabel = "time (*"+str(round(xss,2))+"s)"
-	ylabel = "length (*"+str(round(yss,2))+"m)"
+	ylabel = "length (*"+str(round(yss,2))+"in)"
 	zlabel = " temp (K)"
 
 	fig = plt.figure(1)
