@@ -20,8 +20,6 @@ Heat equation
  
 Python Implimenataion
 
-![Transient Conduction](imgs/ForwareEuler.png)
-![Crank Nicholson](imgs/CrankNicholson.png)
 ![Comparison](imgs/Comparison.png)
 
 Mathcad Implimentation
