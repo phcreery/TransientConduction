@@ -4,7 +4,7 @@
   <settings ppi="96">
     <identity>
       <id>31d89912-32e7-4dbc-8e3e-3eba074832cd</id>
-      <revision>25</revision>
+      <revision>26</revision>
     </identity>
     <calculation>
       <precision>4</precision>
@@ -723,7 +723,7 @@
         </input>
       </math>
     </region>
-    <region left="54" top="1467" width="611" height="204" color="#000000" fontSize="10">
+    <region left="54" top="1449" width="611" height="204" color="#000000" fontSize="10">
       <math matrixOptions="0,0,3,10">
         <input>
           <e type="operand">T2</e>
@@ -870,8 +870,8 @@
         </input>
       </math>
     </region>
-    <region left="63" top="1692" width="240" height="158" color="#000000" fontSize="10">
-      <plot type="3d" render="lines" scale_x="0.185302018885184" scale_y="0.185302018885184" scale_z="0.185302018885184" rotate_x="-105" rotate_y="74" rotate_z="0" transpose_x="0" transpose_y="0" transpose_z="0" animate="TT" frameRate="20">
+    <region left="54" top="1665" width="644" height="309" color="#000000" fontSize="10">
+      <plot type="3d" render="lines" scale_x="0.473513931" scale_y="0.473513931" scale_z="0.473513931" rotate_x="-33" rotate_y="60" rotate_z="0" transpose_x="0" transpose_y="0" transpose_z="0" animate="TT" frameRate="20">
         <input>
           <e type="operand">T2</e>
         </input>
