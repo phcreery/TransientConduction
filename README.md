@@ -14,21 +14,21 @@ Heat equation
  
  
  
-Python Implementation
+### Python Implementation
 
-## Dependencies
+#### Dependencies
  - python2.7 or 3
  - matplotlib
  - numpy
 
 ![Comparison](imgs/Comparison.png)
 
-MathCAD Implementation
+### MathCAD Implementation
 
 ![Forward Euler](mathcad/imgs/ForwardEuler.png)
 ![Crank Nicholson](mathcad/imgs/CrankNicholson.png)
 
-SMath Studio Implementation
+### SMath Studio Implementation
 
 ![Transient Conduction](smath/Screenshot%202022-09-22%20191601.png)
 
