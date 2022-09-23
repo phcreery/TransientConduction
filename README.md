@@ -21,8 +21,6 @@ Python Implementation
  - matplotlib
  - numpy
 
-![Transient Conduction](imgs/ForwareEuler.png)
-![Crank Nicholson](imgs/CrankNicholson.png)
 ![Comparison](imgs/Comparison.png)
 
 MathCAD Implementation
